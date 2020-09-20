@@ -1,1 +1,1 @@
-# rsschool-cv
+https://illiagent.github.io/rsschool-cv/cv
