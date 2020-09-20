@@ -1,0 +1,16 @@
+main {
+    width: 1000px;
+    background-color: lightgray;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+span {
+    background-color: orange;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.contacts__ul {
+    list-style-type: none;
+}
