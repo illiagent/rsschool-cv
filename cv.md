@@ -1,4 +1,4 @@
-![my avatar](./assets/img/cv_photo.jpg)
+![my avatar](/cv_photo.jpg)
 
 ## Illia Yurkevich
     
